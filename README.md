@@ -9,7 +9,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 *per il corsivo*
 **per il bold**
-1. per lista puntata
+* per lista puntata
 
 ### test1 h3
 #### test1 h4
